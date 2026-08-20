@@ -20,8 +20,9 @@ cover:
   alt: Waza 深度介绍：把 AI Agent Skill 从“能跑”推进到“可评估”
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 一个 Agent Skill 在演示里正确触发，并不等于它已经可靠。

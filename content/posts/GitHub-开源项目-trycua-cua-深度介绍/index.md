@@ -20,8 +20,9 @@ cover:
   alt: trycua/cua 深度解析：怎样给 Computer-Use Agent 一台可控的电脑？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 让 AI 帮你整理文档很容易；让它打开桌面软件、识别窗口、点击按钮，再把同一任务稳定重复一百次，却是另一回事。

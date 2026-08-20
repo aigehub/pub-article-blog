@@ -18,8 +18,9 @@ cover:
   alt: 特斯拉二季度研报：交付量反弹之后，利润率与AI重投入能否支撑估值？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 2026年第二季度，特斯拉交付480,126辆汽车，较当季451,758辆的产量高出28,368辆；同期GAAP营收达到282.36亿美元，同比增长26%。单看销量和收入，公司似乎重新进入增长轨道。

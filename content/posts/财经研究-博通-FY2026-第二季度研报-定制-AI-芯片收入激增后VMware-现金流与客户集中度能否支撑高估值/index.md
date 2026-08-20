@@ -18,8 +18,9 @@ cover:
   alt: 博通 FY2026 Q2：AI 芯片收入激增后，VMware 现金流能否撑住高估值？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 博通交出了一份增长与风险同时放大的财报。

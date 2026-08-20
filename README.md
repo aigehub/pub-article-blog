@@ -6,8 +6,24 @@
 
 要求：
 
-- Hugo Extended 0.146.0 或更高版本
+- Hugo Extended 0.146.0 或更高版本（与 GitHub Pages 构建一致的版本是 0.165.0）
 - Git
+
+不要用 `apt` 或 `snap` 安装 Hugo：Ubuntu 仓库和 snap 通常不是 Extended 版，PaperMod 的 SCSS 会编译失败。用官方 Extended 二进制：
+
+```bash
+./scripts/install-hugo.sh
+```
+
+脚本会把 `hugo` 装到 `~/.local/bin`。若当前 shell 仍提示找不到命令，执行：
+
+```bash
+export PATH="$HOME/.local/bin:$PATH"
+hash -r
+hugo version
+```
+
+`hugo version` 应包含 `extended`。
 
 首次安装主题：
 
@@ -43,6 +59,7 @@ node dist/cli.js blog export '<job-dir>' --blog-dir blog
 导出器读取：
 
 - `<job-dir>/typed.md`
+- `<job-dir>/typed.html`
 - `<job-dir>/assets/manifest.json`
 - manifest 引用的封面与正文图片
 
@@ -50,9 +67,12 @@ node dist/cli.js blog export '<job-dir>' --blog-dir blog
 
 ```text
 content/posts/<slug>/index.md
+content/posts/<slug>/wechat.fragment
 content/posts/<slug>/cover.<ext>
 content/posts/<slug>/image-01.<ext>
 ```
+
+文章页通过覆盖 PaperMod 的 `layouts/single.html` 渲染 `wechat.fragment`，保留微信排版的内联样式；`index.md` 继续用于列表、RSS 和搜索。站点使用浅色卡片包裹正文，避免暗色主题把微信配色冲掉。文件不用 `.html` 后缀，避免 Hugo 0.165 把 HTML 当成内容页并被安全策略拒绝。
 
 重复导出同一主题会原子替换对应 Page Bundle，避免遗留旧图片。
 

@@ -20,8 +20,9 @@ cover:
   alt: microsoft/markitdown 深度解析：把复杂文档变成 AI 更易读的 Markdown
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 一份资料库里同时放着 PDF 报告、PPT、Excel 表格、Word 合同和网页存档。人可以逐个打开阅读，但如果要把它们接入知识库、全文检索或大模型问答，首先就会遇到一个基础问题：怎样把不同格式稳定地变成结构相对统一的文本？

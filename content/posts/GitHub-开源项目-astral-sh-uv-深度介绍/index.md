@@ -20,8 +20,9 @@ cover:
   alt: uv 深度解析：一个工具，能否收拢 Python 的碎片化工作流？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 新建一个 Python 项目，真正让人疲惫的往往不是写第一行代码，而是先回答一串工具问题：用什么安装 Python？怎样创建虚拟环境？依赖写进哪个文件？如何锁定版本？命令行工具要不要全局安装？构建完成后又用什么发布？

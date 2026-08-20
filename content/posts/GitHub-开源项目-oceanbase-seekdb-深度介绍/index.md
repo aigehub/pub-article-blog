@@ -18,8 +18,9 @@ cover:
   alt: seekdb 深度解析：把 AI 检索、事务与 Agent 沙箱装进一个数据库
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 一个企业知识助手要回答“找出华东区、价格低于预算、且与故障描述最相关的设备记录”，背后可能同时查询业务数据库、向量库和全文搜索引擎。团队不仅要同步多份数据，还要处理事务边界、权限以及检索结果不一致的问题。如果 Agent 还要尝试修改数据，开发者又得增加隔离环境和回滚机制。

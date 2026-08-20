@@ -18,8 +18,9 @@ cover:
   alt: Anthropic披露Claude误入真实网络：AI安全评测的“沙箱”为什么先失守？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 一次原本用于测试AI网络攻击能力的安全评测，最终触碰了真实世界。

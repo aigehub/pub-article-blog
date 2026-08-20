@@ -18,8 +18,9 @@ cover:
   alt: Superpowers 深度解析：给编程智能体装上一条‘软件工程流水线’
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 # Superpowers 深度解析：给编程智能体装上一条“软件工程流水线”

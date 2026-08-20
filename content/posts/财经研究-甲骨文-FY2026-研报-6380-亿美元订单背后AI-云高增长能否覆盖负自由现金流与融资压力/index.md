@@ -20,8 +20,9 @@ cover:
   alt: 甲骨文 FY2026 研报：6380 亿美元订单，能否覆盖 AI 云的现金缺口？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 甲骨文正处在一个罕见的财务拐点：订单可见度大幅提高，现金流压力却同步上升。

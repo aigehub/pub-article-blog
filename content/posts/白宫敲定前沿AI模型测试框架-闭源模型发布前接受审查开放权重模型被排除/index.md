@@ -18,8 +18,9 @@ cover:
   alt: 白宫敲定前沿AI模型测试框架：闭源模型进审查，开放权重为何被排除？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 美国对前沿人工智能模型的治理，正在向发布前延伸。

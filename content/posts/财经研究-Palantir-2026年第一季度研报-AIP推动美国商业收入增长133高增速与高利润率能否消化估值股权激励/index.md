@@ -18,8 +18,9 @@ cover:
   alt: Palantir一季报：133%增长，能否跨过高估值与股权激励？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 Palantir交出了一组罕见的“增长与利润率同时上升”数据。

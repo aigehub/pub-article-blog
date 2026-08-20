@@ -18,8 +18,9 @@ cover:
   alt: anydoc 深度解析：把异构文档压进一条 Markdown 管道
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 一份企业知识库的原始资料，往往不是整齐的网页：合同躺在 DOCX 里，销售数据装在 XLSX 里，培训内容是 PPTX，产品手册可能又是 EPUB 或 PDF。

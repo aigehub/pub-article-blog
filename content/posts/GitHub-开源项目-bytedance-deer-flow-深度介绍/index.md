@@ -20,8 +20,9 @@ cover:
   alt: DeerFlow 2.0 深度解析：从研究工作流到长时程智能体底座
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 你要完成一份行业研究报告：先检索资料，再核对来源、运行数据处理脚本、生成图表，最后整理成网页或幻灯片。普通聊天助手可以回答其中某个问题，但当任务跨越几十个步骤、持续数十分钟，还涉及文件、代码和外部工具时，真正的难点已经不是“模型会不会回答”，而是任务能否被拆解、执行、隔离、保存和恢复。

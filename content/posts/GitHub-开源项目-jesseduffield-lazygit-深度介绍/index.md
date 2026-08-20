@@ -18,8 +18,9 @@ cover:
   alt: Lazygit 深度介绍：把 Git 操作收进一个终端界面
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 改完三个文件，只想把其中两行放进下一次提交；接着还要整理提交顺序、压缩一个临时 commit，再切回另一条分支检查差异。使用 Git 命令行完成这些工作并非不可能，麻烦在于：你需要不断查询状态、记住参数，并在编辑器、分页器和终端输出之间切换。

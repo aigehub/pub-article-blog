@@ -20,8 +20,9 @@ cover:
   alt: Atuin 深度解析：把 Shell 历史变成可搜索、可同步的个人数据库
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 你记得自己曾成功执行过一条很长的命令，却不记得它在哪台电脑、哪个目录，又是什么时候运行的。

@@ -18,8 +18,9 @@ cover:
   alt: Eino 深度解析：Go 团队如何搭建可控的 AI 应用
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 一个 Go 团队准备把大模型接进客服、知识库或内部自动化系统时，真正麻烦的往往不是发出第一次 API 请求。

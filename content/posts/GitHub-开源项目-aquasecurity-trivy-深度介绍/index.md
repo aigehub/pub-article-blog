@@ -18,8 +18,9 @@ cover:
   alt: Trivy 深度拆解：一把安全扫描器，如何覆盖从代码到集群
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 一个常见的软件交付场景是：开发者提交代码后，团队要检查依赖漏洞；镜像构建完成，又要检查操作系统包；部署前还需排查 Kubernetes 或 IaC 配置；如果担心密钥误提交，还得增加另一套检测。

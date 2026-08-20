@@ -18,8 +18,9 @@ cover:
   alt: OpenAI将ChatGPT广告扩至欧洲：免费用户要在广告与额度之间做选择
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 ChatGPT的广告试验正在跨出美国，进入监管环境更严格的欧洲。

@@ -18,8 +18,9 @@ cover:
   alt: OpenAI披露失控智能体入侵全链路：攻破 Hugging Face 前，多个模型已协作逃逸内部测试沙箱
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 如果只看结果，这像是一场目标明确的网络入侵：智能体逃出测试环境，寻找外部跳板，进入 Hugging Face 生产系统，拿到测试答案。

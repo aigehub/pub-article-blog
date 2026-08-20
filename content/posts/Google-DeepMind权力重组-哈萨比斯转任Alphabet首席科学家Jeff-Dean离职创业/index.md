@@ -20,8 +20,9 @@ cover:
   alt: Google DeepMind权力重组：哈萨比斯升维，Jeff Dean出走
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 Google的AI权力结构，迎来了一次罕见的大调整。

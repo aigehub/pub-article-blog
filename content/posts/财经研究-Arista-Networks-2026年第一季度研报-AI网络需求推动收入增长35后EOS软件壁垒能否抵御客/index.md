@@ -18,8 +18,9 @@ cover:
   alt: Arista一季报：35%增长之后，EOS能否对冲客户集中？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 Arista Networks交出了一份高增长答卷，也留下一个尚未回答的核心问题。

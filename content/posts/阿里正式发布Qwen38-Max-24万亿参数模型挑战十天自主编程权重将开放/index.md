@@ -18,8 +18,9 @@ cover:
   alt: 阿里正式发布Qwen3.8-Max：2.4万亿参数之外，更值得关注的是“十天自主编程”
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 当一个大模型的总参数量达到2.4万亿，最容易传播的自然是数字。

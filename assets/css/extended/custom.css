@@ -43,3 +43,42 @@ body {
     line-height: 1.82;
   }
 }
+
+/* WeChat typed.html is light-theme, inline-styled HTML. Keep it readable
+   even when PaperMod is in dark mode, and avoid PaperMod heading/TOC chrome. */
+.post-single.wechat-layout .post-header {
+  margin-bottom: 0.6em;
+}
+
+.wechat-article {
+  max-width: 720px;
+  margin: 1.25rem auto 2.5rem;
+  padding: 10px 14px 36px;
+  background: #ffffff;
+  color: #2d302c;
+  border-radius: 16px;
+  box-sizing: border-box;
+  overflow: visible;
+}
+
+.wechat-article img {
+  max-width: 100%;
+  height: auto;
+}
+
+.wechat-article a {
+  word-break: break-word;
+}
+
+html[data-theme="dark"] .wechat-article,
+.dark .wechat-article {
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.08);
+}
+
+@media (max-width: 768px) {
+  .wechat-article {
+    margin: 0.75rem -4px 2rem;
+    padding: 6px 4px 28px;
+    border-radius: 12px;
+  }
+}

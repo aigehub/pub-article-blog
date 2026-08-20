@@ -20,8 +20,9 @@ cover:
   alt: 苹果 FY2026 Q3：双位数增长之后，Siri AI 与 300 亿美元芯片协议能否接棒？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 苹果交出了一份增长强劲、却不能简单外推的季报。

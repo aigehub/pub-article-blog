@@ -20,8 +20,9 @@ cover:
   alt: LocalSend 深度解析：把跨设备传输重新变成局域网小事
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 手机里有一段刚拍的视频，几分钟后要放进 Windows 电脑上的演示文稿。常见选择并不少：登录聊天软件、上传网盘、寻找数据线，或者先绕到另一台同品牌设备。然而，当文件较大、网络无法访问互联网，或设备分别属于苹果、Android、Windows 和 Linux 生态时，一次本应简单的传输，很容易变成账号、云端与兼容性的组合题。

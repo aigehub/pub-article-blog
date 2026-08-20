@@ -18,8 +18,9 @@ cover:
   alt: Kimi K3 解读：2.8 万亿参数之外，真正值得关注的是什么？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 7 月 16 日，月之暗面发布 Kimi K3。它最醒目的标签是“2.8 万亿参数”，但如果只把这次发布理解为一次参数竞赛，就容易错过更重要的变化：一家中国大模型公司，正在尝试把开放权重、原生多模态、百万级上下文和长程任务能力集中到同一个前沿系统中。

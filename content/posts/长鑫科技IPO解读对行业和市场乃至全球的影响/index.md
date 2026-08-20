@@ -18,8 +18,9 @@ cover:
   alt: 长鑫科技IPO：579亿元融资之后，中国存储芯片走到哪一步？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 7月27日，长鑫科技登陆科创板。这不仅是一场超大型IPO，也把一个重要问题推到市场面前：中国DRAM产业距离真正改变全球竞争格局，还有多远？

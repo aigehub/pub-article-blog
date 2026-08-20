@@ -18,8 +18,9 @@ cover:
   alt: Apache SeaTunnel 深度解析：把异构数据搬运变成一条可治理的流水线
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 一家公司要把 MySQL 业务库同步到数仓，同时接入 Kafka 实时数据，再将历史文件导入湖仓。真正棘手的往往不是“搬一次”，而是长期维护：数据源协议不同，批处理与实时任务割裂，字段变化会让链路中断，失败恢复和状态监控也各有一套逻辑。

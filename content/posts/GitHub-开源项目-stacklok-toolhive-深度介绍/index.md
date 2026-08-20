@@ -20,8 +20,9 @@ cover:
   alt: ToolHive 深度解析：给 MCP 服务器加上一层运行与治理底座
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 当团队准备把一个 MCP 服务器接入 AI 编程工具时，真正麻烦的往往不是“能不能调用工具”，而是后面的一连串问题：这段第三方代码能访问哪些文件？API Key 放在哪里？它可以连接哪些网络地址？多个客户端如何配置？进入 Kubernetes 后，认证、审计和故障排查又由谁负责？

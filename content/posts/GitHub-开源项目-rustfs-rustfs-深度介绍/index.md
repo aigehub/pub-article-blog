@@ -18,8 +18,9 @@ cover:
   alt: RustFS 深度拆解：一个冲向 1.0 的 Rust 对象存储项目
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 当图片、日志、备份和模型文件不断增加，团队常会遇到一个现实选择：继续依赖公有云对象存储，还是在自己的服务器上部署一套兼容 S3 的系统？

@@ -20,8 +20,9 @@ cover:
   alt: 英伟达 FY2027 Q1：推理与 Rubin 接棒，能否消化三重压力？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 英伟达截至2026年4月26日的 FY2027 第一季度，GAAP 营收达到816.15亿美元，同比增长85%，其中数据中心收入752.46亿美元，占总营收约92.2%。与此同时，公司给出的第二季度营收指引为910亿美元、上下浮动2%，且没有计入任何中国数据中心计算收入。

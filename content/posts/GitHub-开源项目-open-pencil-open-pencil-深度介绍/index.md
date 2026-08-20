@@ -20,8 +20,9 @@ cover:
   alt: OpenPencil 深度解析：当设计文件变得可编程
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 设计稿里有几十个页面，研发想批量找出所有文本节点；团队准备换一套设计令牌，需要先统计颜色和重复样式；AI 代理生成了一批界面，还要把结果写回设计文件。

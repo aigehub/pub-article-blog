@@ -18,8 +18,9 @@ cover:
   alt: Gemini月活突破10亿：Google用三周跨越最后5000万，AI助手进入双巨头时代
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 从9.5亿到10亿，Google只用了大约三周。

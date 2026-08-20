@@ -18,8 +18,9 @@ cover:
   alt: Docling 深度解析：把复杂文档变成 AI 能理解的结构
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 一份几十页的 PDF 交给普通文本提取器后，双栏内容可能左右串行，表格变成一堆错位字符，页眉页脚混进正文，图片与说明文字也失去关联。把这样的结果直接送入知识库，后续分块、检索和问答都会受到影响。

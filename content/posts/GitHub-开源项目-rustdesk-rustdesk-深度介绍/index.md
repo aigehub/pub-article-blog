@@ -18,8 +18,9 @@ cover:
   alt: RustDesk 深度解析：把远程桌面的连接入口握在自己手里
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 人在外地，办公室电脑上的文件却急着要用；父母面对系统弹窗说不清问题，你只能隔着电话猜；企业 IT 需要维护分散设备，又不希望远程连接完全依赖第三方平台。

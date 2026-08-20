@@ -18,8 +18,9 @@ cover:
   alt: 从‘模型秀’到‘生产力’：2026上海人工智能大会释放了什么信号？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 # 从“模型秀”到“生产力”：2026上海人工智能大会释放了什么信号？

@@ -18,8 +18,9 @@ cover:
   alt: Alphabet一季报拆解：295亿美元收购Wiz，226.89亿美元商誉靠什么兑现？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 ## 核心问题：云业务高增长，能否证明商誉安全？

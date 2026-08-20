@@ -18,8 +18,9 @@ cover:
   alt: 欧盟 AI Omnibus 正式生效：高风险 AI 延期，不等于监管放松
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 欧盟 AI 监管迎来一次重要调整。

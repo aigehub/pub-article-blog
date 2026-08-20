@@ -20,8 +20,9 @@ cover:
   alt: Coder 深度解析：把开发环境搬进组织自己的云
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 新员工入职第一天，常常不是写代码，而是安装 SDK、申请权限、配置数据库，再花半天追查“为什么这段代码只在我的电脑上报错”。远程开发和 AI 编程代理又放大了问题：代码、密钥和算力究竟放在哪里，团队是否看得见资源消耗，离职后环境能否及时收回？

@@ -20,8 +20,9 @@ cover:
   alt: Cursor 推出代码托管平台 Origin：AI 编程工具开始争夺 GitHub 的核心地盘
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 Cursor 不再满足于只做程序员写代码时打开的编辑器。

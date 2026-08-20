@@ -20,8 +20,9 @@ cover:
   alt: Chrome DevTools MCP 深度解析：让编码智能体告别“蒙眼编程”
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 让编码智能体修改一个 Web 页面并不难，真正棘手的是下一步：按钮是否真的能点？接口为什么返回 500？控制台有没有报错？首屏卡顿究竟发生在哪里？

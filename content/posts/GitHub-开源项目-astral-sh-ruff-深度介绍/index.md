@@ -18,8 +18,9 @@ cover:
   alt: Ruff 深度解析：把 Python 代码检查与格式化收进一个工具
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 一个 Python 项目运行久了，开发工具往往会越堆越多：Flake8 负责检查，isort 整理导入，Black 统一格式，pyupgrade 更新语法，autoflake 清理无用导入；每个工具又有自己的配置、版本和 CI 步骤。

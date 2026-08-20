@@ -18,8 +18,9 @@ cover:
   alt: OpenAI首次按“关键级”网络能力管控Astra：暂停部分内部开发，发布前加码隔离测试
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 一款尚未发布的模型，因为网络能力可能过强，部分内部开发先被按下暂停键。

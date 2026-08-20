@@ -18,8 +18,9 @@ cover:
   alt: 高通收购 Modular：最多发行 1920 万股，能否补上数据中心 AI 的软件壁垒？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 高通在 2026 财年第二季度回购了 1900 万股，耗资 28 亿美元；两个月后，公司又披露，拟在收购 Modular 时发行最多 1920 万股普通股。两组数字几乎相等，却代表相反方向：前者减少股本，后者可能重新增加股本。

@@ -18,8 +18,9 @@ cover:
   alt: ScaleQ-1.58：400万Token，能把推理模型压到多低？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 大模型量化一直面对一个棘手矛盾：权重位宽越低，存储和计算的潜在收益越大；但当模型需要完成数学证明、代码生成等长链条推理时，激进压缩又很容易破坏它的能力。

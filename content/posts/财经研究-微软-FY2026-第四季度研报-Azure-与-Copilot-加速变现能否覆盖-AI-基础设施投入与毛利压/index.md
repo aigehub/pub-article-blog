@@ -18,8 +18,9 @@ cover:
   alt: 微软 FY2026 Q4：Azure 与 Copilot 的增长，能覆盖 AI 重投入吗？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 微软最新季度呈现出一组值得追问的数字：Azure及其他云服务收入同比增长43%，Microsoft 365 Copilot付费席位超过3000万；与此同时，季度资本开支达到410亿美元，同比增长约70%，远快于18%的总营收增速。[微软业绩公告](https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast)｜[Axios](https://www.axios.com/2026/07/29/meta-microsoft-earnings-reports-ai)

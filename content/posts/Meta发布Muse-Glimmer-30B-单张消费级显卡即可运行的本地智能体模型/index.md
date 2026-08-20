@@ -18,8 +18,9 @@ cover:
   alt: Meta发布Muse Glimmer 30B：本地智能体开始挤进单张消费级显卡
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 一张消费级显卡，能否承载一个会看图、会调用工具、还能执行多步任务的本地智能体？

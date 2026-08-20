@@ -18,8 +18,9 @@ cover:
   alt: Anthropic拟斥资约60亿美元收购Decart：从购买算力到掌控计算效率
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 一笔尚未落定的收购，正在透露Anthropic对下一阶段AI竞争的判断。

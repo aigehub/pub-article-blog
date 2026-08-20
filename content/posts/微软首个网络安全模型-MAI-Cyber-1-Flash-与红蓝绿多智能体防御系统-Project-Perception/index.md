@@ -20,8 +20,9 @@ cover:
   alt: 微软把网络安全交给“红蓝绿”智能体：MAI-Cyber-1-Flash与Project Perception解读
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 > 微软正在把生成式 AI 从安全分析助手，推向能够持续发现问题、判断风险并执行修复的“行动系统”。

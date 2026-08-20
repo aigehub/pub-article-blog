@@ -18,8 +18,9 @@ cover:
   alt: ServiceNow AI年化合同额突破10亿美元：平台壁垒能否抵消增长与利润压力？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 AI产品年化合同价值突破10亿美元，是ServiceNow在2026年第二季度交出的一项重要产品周期指标。但同一份成绩单还显示：名义口径cRPO增速较第一季度放缓，GAAP营业利润率降至4%，单季股权激励费用相当于总收入的约16.4%，收购Armis则显著增加了债务和整合压力。

@@ -18,8 +18,9 @@ cover:
   alt: Twitch把直播默认交给AI训练：一个退出按钮，为何引发创作者反弹？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 直播结束后，内容并不一定就此“下播”。

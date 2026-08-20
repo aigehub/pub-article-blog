@@ -18,8 +18,9 @@ cover:
   alt: Dify 深度拆解：把 AI 应用从演示推进到可交付系统
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 一个常见的 AI 项目困境是：演示版聊天机器人只用几天就能完成，真正交付却要补上文档检索、模型切换、工具调用、权限配置、日志追踪、API 封装和部署运维。每一项都不神秘，但拼在一起，团队很快就会陷入重复造轮子。

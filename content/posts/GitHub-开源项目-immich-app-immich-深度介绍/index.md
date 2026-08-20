@@ -18,8 +18,9 @@ cover:
   alt: Immich 深度解析：把家庭相册搬回自己的服务器，代价是什么？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 手机里有几万张照片，旧电脑还有多年的家庭影像，伴侣和父母又各自使用不同设备。真正棘手的通常不是“有没有地方存”，而是照片能否自动归集、按人物或内容找到、方便家人查看，同时不把唯一副本交给某个云服务。

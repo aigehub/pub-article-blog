@@ -18,8 +18,9 @@ cover:
   alt: AMD数据中心收入翻倍后：Helios与ROCm能否把增长变成持续利润？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 AMD的增长曲线已经明显转向数据中心。

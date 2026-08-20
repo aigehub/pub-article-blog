@@ -18,8 +18,9 @@ cover:
   alt: vLLM 深度拆解：大模型推理为何要“分页”
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 一块 GPU 明明还能计算，却接不下更多请求；模型权重没有变化，并发一高，显存却被迅速吃满；为了避免超时，只能增加卡数，结果服务成本随之上升。

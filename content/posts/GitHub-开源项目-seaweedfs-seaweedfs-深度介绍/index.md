@@ -20,8 +20,9 @@ cover:
   alt: SeaweedFS 深度解析：把海量小文件拆成“卷”，能否绕开元数据瓶颈？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 图片、日志切片、模型训练样本、邮件附件……当这些对象从百万级增长到十亿级，麻烦往往不只是磁盘不够。

@@ -18,8 +18,9 @@ cover:
   alt: 欧盟启动300亿欧元AI“超级工厂”计划：七座算力中心争夺下一代模型主导权
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 全球人工智能竞争正在进入一个更昂贵的阶段。

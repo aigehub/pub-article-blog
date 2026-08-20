@@ -20,8 +20,9 @@ cover:
   alt: OpenCode 深度解析：把 AI 编程代理带回终端
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 接手一个陌生仓库时，真正耗时的往往不是写代码，而是先弄清目录结构、调用链和工程约定。普通聊天工具可以回答问题，却未必能直接读取项目、制定修改计划，并在授权后编辑文件或执行命令。

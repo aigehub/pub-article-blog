@@ -20,8 +20,9 @@ cover:
   alt: Pingora 深度解析：Cloudflare 为什么用 Rust 重做网络代理底座
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 当一家公司要在代理层加入自定义路由、鉴权、限流、故障转移和监控逻辑时，常见做法是继续堆配置、编写扩展模块，或者干脆维护一套内部代理。

@@ -18,8 +18,9 @@ cover:
   alt: AWS增速升至28%后，自研芯片能把AI资本开支变成自由现金流吗？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 2026年第一季度，AWS净销售额达到376亿美元，同比增长28%，创15个季度以来最高增速。但同一时期，亚马逊过去12个月经营现金流虽增长30%至1,485亿美元，按公司定义计算的非GAAP自由现金流却从259亿美元降至12亿美元。

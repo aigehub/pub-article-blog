@@ -18,8 +18,9 @@ cover:
   alt: LangExtract 深度解析：让 LLM 抽取结果回到原文
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 一份几十页的合同、病历或研究报告摆在面前，你想提取人物、条款、诊断描述及其关系。让大模型返回 JSON 并不难，真正麻烦的是下一步：这个字段究竟来自原文哪一句？模型有没有把示例里的内容带进结果？复核人员如何快速判断它抽对了没有？

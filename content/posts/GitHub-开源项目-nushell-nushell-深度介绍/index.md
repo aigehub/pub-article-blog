@@ -18,8 +18,9 @@ cover:
   alt: Nushell 深度介绍：当命令行不再只处理字符串
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 你想从当前目录找出所有文件夹。在传统 Shell 中，`ls` 的输出首先是给人看的文本；一旦要筛选、排序或继续交给脚本，往往需要 `grep`、`awk`、`cut` 等工具重新识别其中的列。输出格式、空格甚至本地化设置发生变化，都可能让解析逻辑失效。

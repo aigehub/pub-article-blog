@@ -18,8 +18,9 @@ cover:
   alt: Pixel 11发布：当手机开始预判需求，App还是入口吗？
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 智能手机过去十多年的基本逻辑，是把越来越多的能力装进一个个App：用户先明确目标，再找到入口、逐层点击，最后完成任务。

@@ -20,8 +20,9 @@ cover:
   alt: Omarchy 深度解析：把 Arch Linux 桌面变成一套“有主见”的开发工作流
   relative: true
   hidden: false
-ShowToc: true
+ShowToc: false
 TocOpen: false
+wechatLayout: true
 ---
 
 想把 Arch Linux 用作主力开发桌面，真正费时间的往往不是安装系统，而是安装之后：选择窗口管理器，拼接状态栏、启动器、通知中心和锁屏，再统一主题、快捷键与开发工具。每个组件都能替换，但它们之间的配置、依赖和更新问题也会随之而来。
