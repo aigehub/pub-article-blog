@@ -1,0 +1,123 @@
+baseURL: https://example.com/
+languageCode: zh-cn
+defaultContentLanguage: zh
+title: AI 前沿与科技观察
+theme: PaperMod
+enableRobotsTXT: true
+enableGitInfo: false
+hasCJKLanguage: true
+timeZone: Asia/Shanghai
+
+pagination:
+  pagerSize: 12
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+caches:
+  images:
+    dir: :cacheDir/images
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: false
+  highlight:
+    noClasses: false
+    codeFences: true
+    guessSyntax: true
+
+params:
+  env: production
+  title: AI 前沿与科技观察
+  description: 聚焦人工智能、科技财经与优质开源项目的中文深度文章。
+  keywords:
+    - 人工智能
+    - AI
+    - 科技
+    - 财经
+    - 开源
+  author: AGI通用人工智能
+  defaultTheme: auto
+  disableThemeToggle: false
+  mainSections:
+    - posts
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  showtoc: true
+  tocopen: false
+  comments: false
+  hideSummary: false
+  images:
+    - /images/site-cover.png
+
+  homeInfoParams:
+    Title: AI 前沿与科技观察
+    Content: 深入解读人工智能、科技公司与开源项目，保留事实依据与适用边界。
+
+  socialIcons: []
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 2
+    keys:
+      - title
+      - permalink
+      - summary
+      - content
+
+  # AdSense 审核通过后填写 ca-pub-xxxxxxxxxxxxxxxx。
+  adsensePublisherId: ""
+
+menu:
+  main:
+    - identifier: posts
+      name: 文章
+      url: /posts/
+      weight: 10
+    - identifier: categories
+      name: 栏目
+      url: /categories/
+      weight: 20
+    - identifier: archives
+      name: 归档
+      url: /archives/
+      weight: 30
+    - identifier: search
+      name: 搜索
+      url: /search/
+      weight: 40
+    - identifier: about
+      name: 关于
+      url: /about/
+      weight: 50
+    - identifier: contact
+      name: 联系
+      url: /contact/
+      weight: 60
+    - identifier: privacy
+      name: 隐私
+      url: /privacy/
+      weight: 70

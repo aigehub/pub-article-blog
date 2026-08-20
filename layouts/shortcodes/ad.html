@@ -1,0 +1,17 @@
+{{- $publisher := site.Params.adsensePublisherId -}}
+{{- $slot := .Get "slot" -}}
+{{- if and $publisher $slot -}}
+<aside class="article-ad" aria-label="广告">
+  <ins
+    class="adsbygoogle"
+    style="display:block"
+    data-ad-client="{{ $publisher }}"
+    data-ad-slot="{{ $slot }}"
+    data-ad-format="auto"
+    data-full-width-responsive="true"
+  ></ins>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</aside>
+{{- end -}}
