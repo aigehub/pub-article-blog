@@ -4,4 +4,6 @@ url: "/contact/"
 ShowToc: false
 ---
 
-请在正式上线前，将本页替换为可公开使用的联系邮箱或联系表单。
+如果什么建议或合作，请联系我邮箱：jaysen.lin@foxmail.com。
+
+谢谢您的支持！
